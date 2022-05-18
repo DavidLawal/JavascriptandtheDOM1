@@ -23,7 +23,7 @@ evenNumbers (2,100)
  (b)when you want your code to choose between multiple numbers
  © when you want to group data together (d) when you want to loop through a group of statements.*/
 
-(d) 
+//(d) 
 
  //Create a function with a function name firstFunction( ) and return the sum of two integers(numbers)
 
